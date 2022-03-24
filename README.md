@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I’m Edgar Martinez, I am a Web Developer, self-taught and constantly learning. 
+I’m Edgar Martinez, I'm a Web Developer, self-taught and constantly learning. 
 
 I like Technology and specially Programming and Web Development.
 
